@@ -9,7 +9,8 @@ Risk Assessment: Evaluates investment risk using market risk premiums and asset 
 
 ![image](https://github.com/user-attachments/assets/a02f046a-f0f0-4aa1-85e3-47130580c0d0)
 
-![image](https://github.com/user-attachments/assets/c72dc1a9-fe8a-43f2-9cfd-e31b12ecc046)
+![image](https://github.com/user-attachments/assets/1ade1fbc-0778-45c9-ab6b-5d24289f1216)
+
 
 
 
